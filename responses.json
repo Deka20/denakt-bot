@@ -1,0 +1,26 @@
+{
+  "halo": {
+    "type": "text",
+    "content": "Halo juga! 😊"
+  },
+  "meme": {
+    "type": "image",
+    "content": "https://example.com/meme.jpg"
+  },
+  "trigger": {
+    "type": "text",
+    "content": "respon"
+  },
+  "coba": {
+    "type": "text",
+    "content": "deh"
+  },
+  "hai": {
+    "type": "text",
+    "content": "halo"
+  },
+  "dywa": {
+    "type": "text",
+    "content": "https://cdn.discordapp.com/attachments/692819315019481181/1337118608828006473/IMG-20250130-WA0001.png?ex=67a6483e&is=67a4f6be&hm=f8bf2ac1bfebbeb734141221b307491456542ea2bd7edb6e965ef0c64bf81c16&"
+  }
+}
